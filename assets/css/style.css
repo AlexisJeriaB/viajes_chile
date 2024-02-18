@@ -19,3 +19,10 @@ i {
     min-height: 25rem;
     max-height: 50rem;
 }
+
+.imgCard {
+    max-height: 12rem;
+}
+h2 {
+    font-size: 500;
+}
