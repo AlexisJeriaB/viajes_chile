@@ -9,3 +9,13 @@ body {
     background-color: black;
     font-size: 300;
 }
+
+
+i {
+    color: white;
+}
+
+.imgCarrusel {
+    min-height: 25rem;
+    max-height: 50rem;
+}
